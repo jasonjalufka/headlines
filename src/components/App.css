@@ -1,0 +1,13 @@
+.App-title {
+	font-family: 'Quicksand', sans-serif;
+	/*font-family: 'Open Sans';*/
+	font-size: 6rem;
+}
+
+header {
+	margin: 0;
+	padding: 2rem;
+	width: 100%;
+	background: #22313F;
+	color: white;
+}
